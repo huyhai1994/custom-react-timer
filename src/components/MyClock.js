@@ -1,5 +1,6 @@
 import React from 'react'
 import useClock from "../hooks/useClock";
+import './MyClock.css';
 
 function MyClock() {
     //Gọi custom hook để sử dụng
